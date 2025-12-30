@@ -1,0 +1,10 @@
+f1_car
+r1_bike
+creta_car
+bike2
+car2
+bike3
+bike4
+laptop1
+bike
+car
